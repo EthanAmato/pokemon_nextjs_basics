@@ -7,6 +7,15 @@
   min-height: 100vh;
 }
 
+.posts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+
 .description {
   display: inherit;
   justify-content: inherit;
